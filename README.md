@@ -28,7 +28,7 @@ This Streamlit app allows you to upload a PDF file that contains product tables 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/pdf-table-extractor.git
+git clone https://github.com/FabianRecalde/pdf-table-extractor.git
 cd pdf-table-extractor
 
 # 2. Install dependencies
@@ -43,7 +43,7 @@ streamlit run app.py
 ## ☁️ Hosted on Streamlit Cloud
 
 You can try the app live here:  
-👉 [https://YOUR_USERNAME.streamlit.app](https://YOUR_USERNAME.streamlit.app) ← *(replace with your actual link)*
+👉 (https://prego-pdf-table-extractor.streamlit.app/)
 
 ---
 
@@ -62,5 +62,5 @@ pdf-table-extractor/
 
 ## 📬 Contact
 
-Built with ❤️ by [YOUR NAME]  
-🔗 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Built with ❤️ by Fabian Recalde 
+🔗 GitHub: [https://github.com/FabianRecalde](https://github.com/FabianRecalde)
