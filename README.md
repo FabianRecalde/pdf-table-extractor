@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" alt="PDF Table Extractor Banner" width="100%">
+</p>
 
 # 📄 PDF Table Extractor (Streamlit App)
 
